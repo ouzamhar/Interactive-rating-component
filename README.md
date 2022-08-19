@@ -17,4 +17,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [Interactive rating component](https://interactive-rating-component-one-rust.vercel.app/#)
