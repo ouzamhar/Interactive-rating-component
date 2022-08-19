@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![Screenshot](https://github.com/ouzamhar/Interactive-rating-component/blob/master/review%20card%20screenshot.png)
 
 ### Links
 
